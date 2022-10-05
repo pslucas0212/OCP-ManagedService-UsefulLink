@@ -11,3 +11,4 @@
 ### Azure 
 - [A Guide to Azure Red Hat OpenShift's Built-in Security Features](https://cloud.redhat.com/blog/a-guide-to-azure-red-hat-openshifts-built-in-security-features)
 - [OpenShift Cloud Platform as a Service Region Availablility](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/?products=openshift&regions=all) - Note: This information is from Azure's website
+- [Azure Red Hat OpenShift pricing](https://azure.microsoft.com/en-us/pricing/details/openshift/) - Note: This information is from Azure's website
